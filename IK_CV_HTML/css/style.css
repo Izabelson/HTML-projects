@@ -1,0 +1,164 @@
+body {
+    background-color: #fff;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.main-container {
+    Width: 1200px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(213, 216, 235);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+        }
+
+/*right side*/
+
+/*about me*/
+
+.about-me {
+    background-color: cornflowerblue;
+    padding-left: 80px;
+    margin-bottom: 30px;
+    color: #000000;
+}
+
+.name {
+    font-weight: 700;
+    Font-size: 45px;
+    Line-height: 82%;
+    padding-top: 102px;
+    margin-top: 0;
+   }
+
+.job-tittle {
+    font-weight: 700;
+    Font-size: 16px;
+    Line-height: 100%;
+}
+
+.summary {
+    font-weight: 400;
+    Font-size: 16px;
+    Line-height: 24px;
+    Line-height: 150%;
+    padding-right: 160px;
+    padding-bottom: 80px;
+    text-align: justify;
+}
+
+/*resume informations*/
+
+.work-history,
+.courses,
+.education {
+    padding-left: 80px;
+}
+
+.education {
+    padding-bottom: 80px;
+}
+
+h3,
+h4 {
+    font-weight: 700;
+    color: #2A2A2A;
+}
+
+h4,
+h5 {
+    margin-bottom: 16px;
+}
+
+h3 {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    Font-size: 22px;
+    Line-height: 22px;
+    Line-height: 82%;
+}
+
+h4 {
+    Font-size: 16px;
+    Line-height: 20px;
+    Line-height: 100%;
+}
+
+h5 {
+    font-weight: 200;
+    font-style: italic;
+    Font-size: 12px;
+    Line-height: 15px;
+    Line-height: 100%;
+}
+
+p,
+li {
+    font-weight: 400;
+    Font-size: 14px;
+    Line-height: 24px;
+    Line-height: 141%;
+}
+
+/*sidebar*/
+
+        .sidebar {
+            width: 370px;
+            background-color: rgb(26, 44, 94);
+            color:rgb(213, 216, 235);
+            }
+              
+        .contacts,
+        .tech-skills,
+        .soft-skills {
+            padding: 20px 0 0 40px;
+        }
+
+        .language  {
+            padding: 20px 0 40px 40px;
+        }
+        
+        .sidebar-title {
+        font-weight: 700;
+        Font-size: 22px;
+        Line-height: 27px;
+        color:#FFFFFF;
+        margin-bottom: 20px;
+        }
+    
+        .contacts-phone
+        .contacts-email
+        .contacts-linkedin
+        .contacts-github {
+            margin-bottom: 7px;
+        }
+
+        .contacts-text {
+            font-weight: 600;
+            Font-size: 16px;
+            Line-height: 22px;
+            margin-right: 10px;
+        }
+
+        .contacts-link {
+            font-weight: 400;
+            Font-size: 16px;
+            Line-height: 22px;
+            color: rgba(255, 255, 255, 0.6); 
+        }
+
+        .skills-list {
+            padding-left: 15px;
+        }
+
+
+        .skills-list-item {
+            color: cornflowerblue;
+            margin-bottom: 10px;
+        }
+
+        .skills-list-text {
+            color: #FFFFFF;
+            
+            font-size: 15px;
+            line-height: 17px;
+        }
